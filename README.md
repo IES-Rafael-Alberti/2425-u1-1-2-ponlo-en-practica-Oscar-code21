@@ -97,7 +97,7 @@ Puntos a incluir:
 
   Pues se ah relacionado con claridad, al escribir los códigos y al guardarlos se guardan en arcihivos con un extension expecifica cada uno en su lenguje, el procesasor ejecuta los códigos y no se interactuó con periféricos.
 
-  ## 5.2 5.2. Criterio de Evaluación 1.c: Diferenciación entre Código Fuente, Código Objeto y Ejecutable
+  ##  5.2. Criterio de Evaluación 1.c: Diferenciación entre Código Fuente, Código Objeto y Ejecutable
 
   1. Explica cómo el código fuente que escribiste se transformó en código objeto y ejecutable en el caso de los lenguajes compilados. ¿Generaste archivos intermedios (código objeto)? ¿Qué nombres tomaron estos archivos?
      Se transformo añadiendo funciones que ayudan a que el código pueda ejecutarse, en mi caso al ejecutar el código de java si se te genera un código intermedio que seria un bytecode y el nombre del archivo seria nombre.class
