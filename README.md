@@ -78,3 +78,55 @@ Apoyate en los siguientes recursos para realizar la práctica:
    - Si se entrega en formato PDF o Google Docs, asegúrate de cumplir con el mínimo y máximo de folios establecidos.
 4. **Compilación y Ejecución:**
    - Detalla claramente cómo compilar y ejecutar el código, incluyendo las instrucciones en el archivo `README.md`.
+  
+
+
+
+
+
+# 5. Preguntas y Actividades para Evaluar Cada Criterio de Evaluación
+Contesta a estás preguntas de forma concisa y clara. Las respuestas deben estar bien estructuradas e ir al grano. Si es necesario añade capturas de pantalla para ilustrar tus respuestas.
+## 5.1. Criterio de Evaluación 1.a: Relación entre Software y Hardware
+pregunta:
+
+1. Describe cómo el software que has creado se ha relacionado con los componentes físicos del dispositivo (memoria RAM, procesador, periféricos, etc.) durante la ejecución de los tres lenguajes (interpretado, compilado y en máquina virtual).
+Puntos a incluir:
+- Cómo se almacenaron los datos en memoria.
+- Qué hizo el procesador con el código.
+- Si se interactuó con periféricos, como la pantalla para mostrar la salida.
+
+  Pues se ah relacionado con claridad, al escribir los códigos y al guardarlos se guardan en arcihivos con un extension expecifica cada uno en su lenguje, el procesasor ejecuta los códigos y no se interactuó con periféricos.
+
+  ## 5.2 5.2. Criterio de Evaluación 1.c: Diferenciación entre Código Fuente, Código Objeto y Ejecutable
+
+  1. Explica cómo el código fuente que escribiste se transformó en código objeto y ejecutable en el caso de los lenguajes compilados. ¿Generaste archivos intermedios (código objeto)? ¿Qué nombres tomaron estos archivos?
+     Se transformo añadiendo funciones que ayudan a que el código pueda ejecutarse, en mi caso al ejecutar el código de java si se te genera un código intermedio que seria un bytecode y el nombre del archivo seria nombre.class
+
+  2. Para los lenguajes interpretados, describe cómo el código fuente se ejecutó directamente, sin generar archivos de código objeto o ejecutable.
+     Pues gracias a lo intepretes de python donde directament pones la ruta donde esta el archivo de python y te lo ejecuta y en Java utilizando java virtual machine, que te lo ejecuta directamente en código de bytes que solamnete se podria ejecutar en JVM.
+
+     3. Para el lenguaje que genera código intermedio (Java, C#), explica cómo el código fuente se transformó en código intermedio (bytecode) y cómo este fue ejecutado por la máquina virtual.
+        Primero lo que haras es escribir el código que te lo compila java virtual machine, primero lo copila en bytes, que esos bytes solo se pueden ejecutar en JVM y despues JVM lo ejecuta para que se pueda ver en el hardware, es decir si se ejecuta en linux po se vera en linux y si se ejecuta en window pues se vera en windows.
+
+  ## 5.3. Criterio de Evaluación 1.d: Generación de Código Intermedio para Máquinas Virtuales
+
+   1. Describe el proceso de generación de código intermedio (bytecode) en el lenguaje que utilizaste que emplea una máquina virtual (por ejemplo, Java o C#).
+      Primero lo que haras es escribir el código que te lo compila java virtual machine, primero lo copila en bytes, que esos bytes solo se pueden ejecutar en JVM y despues JVM lo ejecuta para que se pueda ver en el hardware, es decir si se ejecuta en linux po se vera en linux y si se ejecuta en window pues se vera en windows.
+
+  2. Explica qué rol juega la máquina virtual en la ejecución del código y cómo difiere de la ejecución directa en un sistema operativo como ocurre con los lenguajes compilados e interpretados.
+ 
+
+
+  ## 5.4. Criterio de Evaluación 1.e: Clasificación de Lenguajes de Programación
+  1. Clasifica los tres lenguajes utilizados (interpretado, compilado y en máquina virtual) según su:
+
+- Modo de ejecución (interpretado vs compilado vs máquina virtual).
+- Nivel de abstracción (alto nivel vs bajo nivel).
+- Paradigma de programación (imperativo, orientado a objetos, funcional).
+
+  - Modo de Ejecución: En este Caso Python y Java seria los mas sencillos porque al ser interpretados aunque son mas lentos porque traduce línea por línea, son mas flexibles y faciles de probar a diferencia de un copilado que seria C que aun sea mas rapido porque se ejecuta directamente ya que el código esta traducido directamente son mas complejo a la hora de escribirlo
+- Nivel de abstracción: En este caso Python y Java son mas sencillos porque estan escrito para que lo entienda un humano, en caso de C son mas complejos porque estan mas cerca de lenguaje de maquina
+- paradigma de programación : En este caso python y java son orientado a objetos, igual que pueden ser imperativos porque estos estan como mas parecido a la realidad puedes hacer como implemetar el mundo real dentro del software, igual que java que seria imperativo y da instrucciones detalladas de como hacer las cosas igaul que java y python 
+  
+
+     
