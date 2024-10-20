@@ -10,20 +10,20 @@ Apoyate en los siguientes recursos para realizar la práctica:
 ---
 
 # Título de la Actividad
-
+Práctica 2: Introducción al desarrollo. Ponlo en práctica.
 ## Identificación de la Actividad
 - **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
+- **Módulo:** [EDES] (`PROG`, `IS`, `EDES`, etc.)
+- **Unidad de Trabajo:** [UNIDA1-P11: Elementos de desarrollo ]
 - **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **Fecha de Entrega:** [20/10/2025]
 - **Alumno(s):** 
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** [Óscar Arriaza Gómez]
+  - **Correo electrónico:** [oarrgom1905@g.educaand.es]
+  - **Iniciales del Alumno/Grupo:** [OAG]
 
 ## Descripción de la Actividad
-[Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
+[Responder a la siguientes preguntas que te pregunta sobre Elementos de desarrollo ]
 
 ## Instrucciones de Compilación y Ejecución
 1. **Requisitos Previos:**
