@@ -80,10 +80,23 @@ Práctica 2: Introducción al desarrollo. Ponlo en práctica.
    - Detalla claramente cómo compilar y ejecutar el código, incluyendo las instrucciones en el archivo `README.md`.
   
 
-# Práctica 2: Introducción al desarrollo. Ponlo en práctica.
+# Práctica 1.11: Elementos de desarrollo
 
 
 ## iNDICE
+
+##  1. Tarea
+## 2. Preguntas y Actividades para Evaluar Cada Criterio de Evaluación
+  ### 5.1. Criterio de Evaluación 1.a: Relación entre Software y Hardware
+  ### 5.2. Criterio de Evaluación 1.c: Diferenciación entre Código Fuente, Código Objeto y Ejecutable
+  ### 5.3. Criterio de Evaluación 1.d: Generación de Código Intermedio para Máquinas Virtuales
+  ### 5.4. Criterio de Evaluación 1.e: Clasificación de Lenguajes de Programación
+  ### 5.5. Criterio de Evaluación 1.f: Evaluación de Herramientas Utilizadas en el Desarrollo
+## 6. Entrega
+## 7. Conclusión Final
+
+
+
 
 
 
