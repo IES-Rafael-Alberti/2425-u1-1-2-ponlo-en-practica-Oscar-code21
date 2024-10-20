@@ -140,5 +140,14 @@ Para cada uno de los tres lenguajes (interpretado, compilado y en máquina virtu
 - Depurador (si lo usaste, ¿cómo lo empleaste para encontrar errores?). No lo use
 - Sistema de gestión de versiones (si lo usaste, ¿cómo guardaste las versiones del código?). No lo use
   
+# 7. Conclusión Final
+Al final del trabajo, se deberá reflexionar y entregar una conclusión, de no más de 10 líneas, que compare las diferencias entre los tres lenguajes (interpretado, compilado y en máquina virtual), destacando:
+- Las diferencias de rendimiento.
+- La facilidad o complejidad de cada proceso de ejecución.
+- Las ventajas y desventajas de cada tipo de lenguaje (interpretado vs compilado vs intermedio).
 
-     
+
+  - En rendimiento es mucho mejor C porque directamente te viene todo traducido y es mas rapido, python y java al ser línea por línea pues es mas lento su rendimiento
+  - Para mi al estar mas familiarizado con python pues es mas facilidad en diferencia de Java y C, que a simple vista me parecen muy dificil
+  - Pues los interpretados para mi tiene mas ventaja poorque ya contiene un interprete que te lo intepreta directamente y ves el código escrito y interpretado, desventaja que es mucho mas coñazo, porque por ejemplo como contenga bucles te puedes llevar mil años y los compilados pues su ventaja esque te lo traduce todo directamente y mas sencillo, la desventaja la complejidad de el propio código al escribirlo. 
+  
