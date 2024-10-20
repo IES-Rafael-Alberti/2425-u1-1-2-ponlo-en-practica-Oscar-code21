@@ -12,7 +12,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
 # Título de la Actividad
 Práctica 2: Introducción al desarrollo. Ponlo en práctica.
 ## Identificación de la Actividad
-- **ID de la Actividad:** [ID de la actividad]
+- **ID de la Actividad:** [https://github.com/IES-Rafael-Alberti/2425-u1-1-2-ponlo-en-practica-Oscar-code21]
 - **Módulo:** [EDES] (`PROG`, `IS`, `EDES`, etc.)
 - **Unidad de Trabajo:** [UNIDA1-P11: Elementos de desarrollo ]
 - **Fecha de Creación:** [Fecha de creación]
