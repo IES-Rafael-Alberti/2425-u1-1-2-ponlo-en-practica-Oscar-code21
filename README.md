@@ -126,7 +126,19 @@ Puntos a incluir:
 
   - Modo de Ejecución: En este Caso Python y Java seria los mas sencillos porque al ser interpretados aunque son mas lentos porque traduce línea por línea, son mas flexibles y faciles de probar a diferencia de un copilado que seria C que aun sea mas rapido porque se ejecuta directamente ya que el código esta traducido directamente son mas complejo a la hora de escribirlo
 - Nivel de abstracción: En este caso Python y Java son mas sencillos porque estan escrito para que lo entienda un humano, en caso de C son mas complejos porque estan mas cerca de lenguaje de maquina
-- paradigma de programación : En este caso python y java son orientado a objetos, igual que pueden ser imperativos porque estos estan como mas parecido a la realidad puedes hacer como implemetar el mundo real dentro del software, igual que java que seria imperativo y da instrucciones detalladas de como hacer las cosas igaul que java y python 
+- paradigma de programación : En este caso python y java son orientado a objetos, igual que pueden ser imperativos porque estos estan como mas parecido a la realidad puedes hacer como implemetar el mundo real dentro del software, igual que java que seria imperativo y da instrucciones detalladas de como hacer las cosas igaul que java y python
+
+2. Explica qué características de estos lenguajes influyeron en su clasificación.
+   Pues en la complejidad que hay en uno en otros, en mi caso para mi al ver el codigo de java y C, C es muchisimo mas complejo que java y python.
+
+## 5.5. Criterio de Evaluación 1.f: Evaluación de Herramientas Utilizadas en el Desarrollo
+
+Para cada uno de los tres lenguajes (interpretado, compilado y en máquina virtual), describe las herramientas que utilizaste en el proceso de desarrollo:
+- Sistema operativo (¿en qué sistema ejecutaste el programa?). En linux Java y C y en windows Python
+- Editor de texto o IDE (¿dónde escribiste el código?). En visual Studio Code
+- Compilador o intérprete (¿cómo se transformó o ejecutó el código?). En caso de C de forma copilada y python y java de forma interpretada
+- Depurador (si lo usaste, ¿cómo lo empleaste para encontrar errores?). No lo use
+- Sistema de gestión de versiones (si lo usaste, ¿cómo guardaste las versiones del código?). No lo use
   
 
      
