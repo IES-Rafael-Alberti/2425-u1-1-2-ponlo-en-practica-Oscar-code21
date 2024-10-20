@@ -27,8 +27,8 @@ Práctica 2: Introducción al desarrollo. Ponlo en práctica.
 
 ## Instrucciones de Compilación y Ejecución
 1. **Requisitos Previos:**
-   - [Lenguaje de programación y versión]
-   - [Entorno de desarrollo o dependencias necesarias]
+   - [Python, Java y C]
+   - [Entorno de desarrollo o dependencias necesaria]
 
 2. **Pasos para Compilar el Código:**
    ```bash
@@ -67,7 +67,7 @@ Práctica 2: Introducción al desarrollo. Ponlo en práctica.
 [Resumen de las conclusiones alcanzadas al desarrollar la actividad, las lecciones aprendidas, y posibles mejoras que se puedan implementar en futuras entregas.]
 
 ## Referencias y Fuentes
-[Aquí se listarán las fuentes consultadas para el desarrollo de la actividad, tales como documentación oficial, artículos, o cualquier recurso externo relevante.]
+[https://www.educaopen.com/digital-lab/blog/software/codigo-intermedio - https://aws.amazon.com/es/what-is/java/#:~:text=El%20compilador%20de%20c%C3%B3digo%20Java%20se%20llama%20Java%20Virtual%20Machine.]
 
 ### Notas Adicionales:
 1. **Nombres de Archivos y Repositorios:**
