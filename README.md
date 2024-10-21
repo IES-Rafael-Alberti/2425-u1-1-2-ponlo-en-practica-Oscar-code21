@@ -156,6 +156,15 @@ Para cada uno de los tres lenguajes (interpretado, compilado y en máquina virtu
 - Compilador o intérprete (¿cómo se transformó o ejecutó el código?). En caso de C de forma copilada y python y java de forma interpretada
 - Depurador (si lo usaste, ¿cómo lo empleaste para encontrar errores?). No lo use
 - Sistema de gestión de versiones (si lo usaste, ¿cómo guardaste las versiones del código?). No lo use
+
+
+
+# 6. Entrega
+Cada grupo deberá entregar:
+
+- El código fuente de los tres lenguajes elegidos (interpretado, compilado y en máquina virtual).
+- Capturas de pantalla de la ejecución del programa en cada lenguaje.
+- Respuestas a todas las preguntas planteadas, agrupadas por criterio de evaluación.
   
 # 7. Conclusión Final
 Al final del trabajo, se deberá reflexionar y entregar una conclusión, de no más de 10 líneas, que compare las diferencias entre los tres lenguajes (interpretado, compilado y en máquina virtual), destacando:
